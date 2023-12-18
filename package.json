@@ -28,7 +28,7 @@
     "error-polyfill": "^0.1.2",
     "local-storage": "^2.0.0",
     "near-api-js": "^2.1.3",
-    "near-social-vm": "git+https://github.com/NearSocial/VM.git#d4176930eeae95879e0f836c11d64384faafaab1",
+    "near-social-vm": "https://github.com/zavodil/VM.git#26e58f375415b6cac98c4ab6bafa7eafac381e1b",
     "near-social-vm-types": "^1.0.0",
     "prettier": "^2.7.1",
     "qrcode.react": "^3.1.0",
