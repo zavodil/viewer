@@ -79,6 +79,16 @@ return (
       <CommitButton data={data}>Save profile</CommitButton>
     </div>
   </div>
+
 );
 
 ```
+
+Last
+"near-social-vm": "https://github.com/zavodil/VM.git#c36432b5d935e87f9c6852a3dcba1b7ddb04783d",
+
+Dev:
+"near-social-vm": "https://github.com/NearSocial/VM.git#84c83803481de340ca888900ee44081ecd3eafbd",
+
+"near-social-vm": "https://github.com/zavodil/VM.git#ad009964cbd731b5ca10dbe4bf309bf28a067e97",
+"near-social-vm": "/Users/alice/projects/VM",
